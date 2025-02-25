@@ -1,0 +1,13 @@
+package com.example.Civilink_UserPages;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CivilinkUserPagesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CivilinkUserPagesApplication.class, args);
+	}
+
+}
